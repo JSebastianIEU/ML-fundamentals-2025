@@ -1,0 +1,27 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs and debugging
+logs/
+*.log
+debug.log
